@@ -7,7 +7,7 @@ This repository contains four homework assignments for the Data Science course f
 
 ---
 
-## 📁 Assignment 1: Data Science Visualization and EDA
+## https://github.com/revanth-15/Data-Visualization/tree/revanth-15-patch-1/HomeWork1 📁 Assignment 1: Data Science Visualization and EDA
 
 ### Objective:
 Conduct a thorough EDA using at least two tools among Python, R, and Excel. Clean the data, explore its distribution, and analyze correlations. Create visualizations and compare the effectiveness of the tools used.
