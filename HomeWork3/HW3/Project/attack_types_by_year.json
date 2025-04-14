@@ -1,0 +1,1298 @@
+{
+  "1970": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 28
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 8
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 278
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 149
+    },
+    {
+      "attack_type": "Hijacking",
+      "count": 2
+    },
+    {
+      "attack_type": "Hostage Taking (Kidnapping)",
+      "count": 5
+    },
+    {
+      "attack_type": "Unarmed Assault",
+      "count": 2
+    }
+  ],
+  "1971": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 21
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 4
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 143
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 75
+    },
+    {
+      "attack_type": "Hijacking",
+      "count": 1
+    },
+    {
+      "attack_type": "Hostage Taking (Barricade Incident)",
+      "count": 1
+    },
+    {
+      "attack_type": "Hostage Taking (Kidnapping)",
+      "count": 1
+    },
+    {
+      "attack_type": "Unknown",
+      "count": 1
+    }
+  ],
+  "1972": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 3
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 9
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 40
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 15
+    },
+    {
+      "attack_type": "Hijacking",
+      "count": 3
+    },
+    {
+      "attack_type": "Hostage Taking (Barricade Incident)",
+      "count": 2
+    },
+    {
+      "attack_type": "Hostage Taking (Kidnapping)",
+      "count": 1
+    }
+  ],
+  "1973": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 22
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 8
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 22
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 4
+    },
+    {
+      "attack_type": "Hostage Taking (Barricade Incident)",
+      "count": 2
+    },
+    {
+      "attack_type": "Hostage Taking (Kidnapping)",
+      "count": 6
+    }
+  ],
+  "1974": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 15
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 3
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 76
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 11
+    },
+    {
+      "attack_type": "Hostage Taking (Kidnapping)",
+      "count": 4
+    },
+    {
+      "attack_type": "Unarmed Assault",
+      "count": 2
+    }
+  ],
+  "1975": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 9
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 9
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 133
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 4
+    },
+    {
+      "attack_type": "Hostage Taking (Barricade Incident)",
+      "count": 2
+    },
+    {
+      "attack_type": "Hostage Taking (Kidnapping)",
+      "count": 1
+    },
+    {
+      "attack_type": "Unknown",
+      "count": 1
+    }
+  ],
+  "1976": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 15
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 10
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 79
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 12
+    },
+    {
+      "attack_type": "Hijacking",
+      "count": 1
+    },
+    {
+      "attack_type": "Hostage Taking (Kidnapping)",
+      "count": 5
+    },
+    {
+      "attack_type": "Unarmed Assault",
+      "count": 2
+    },
+    {
+      "attack_type": "Unknown",
+      "count": 1
+    }
+  ],
+  "1977": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 10
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 9
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 92
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 28
+    },
+    {
+      "attack_type": "Hostage Taking (Barricade Incident)",
+      "count": 6
+    },
+    {
+      "attack_type": "Hostage Taking (Kidnapping)",
+      "count": 4
+    }
+  ],
+  "1978": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 16
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 6
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 67
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 14
+    },
+    {
+      "attack_type": "Hostage Taking (Barricade Incident)",
+      "count": 4
+    },
+    {
+      "attack_type": "Hostage Taking (Kidnapping)",
+      "count": 9
+    },
+    {
+      "attack_type": "Unknown",
+      "count": 1
+    }
+  ],
+  "1979": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 14
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 9
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 44
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 5
+    },
+    {
+      "attack_type": "Hijacking",
+      "count": 1
+    },
+    {
+      "attack_type": "Hostage Taking (Barricade Incident)",
+      "count": 1
+    },
+    {
+      "attack_type": "Hostage Taking (Kidnapping)",
+      "count": 4
+    },
+    {
+      "attack_type": "Unknown",
+      "count": 1
+    }
+  ],
+  "1980": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 16
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 9
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 33
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 7
+    },
+    {
+      "attack_type": "Hijacking",
+      "count": 1
+    },
+    {
+      "attack_type": "Hostage Taking (Barricade Incident)",
+      "count": 2
+    },
+    {
+      "attack_type": "Hostage Taking (Kidnapping)",
+      "count": 6
+    },
+    {
+      "attack_type": "Unknown",
+      "count": 1
+    }
+  ],
+  "1981": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 10
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 5
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 42
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 10
+    },
+    {
+      "attack_type": "Hostage Taking (Barricade Incident)",
+      "count": 8
+    },
+    {
+      "attack_type": "Hostage Taking (Kidnapping)",
+      "count": 2
+    }
+  ],
+  "1982": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 2
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 10
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 48
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 13
+    },
+    {
+      "attack_type": "Hostage Taking (Barricade Incident)",
+      "count": 4
+    },
+    {
+      "attack_type": "Hostage Taking (Kidnapping)",
+      "count": 2
+    },
+    {
+      "attack_type": "Unarmed Assault",
+      "count": 1
+    },
+    {
+      "attack_type": "Unknown",
+      "count": 5
+    }
+  ],
+  "1983": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 2
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 4
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 22
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 12
+    },
+    {
+      "attack_type": "Hijacking",
+      "count": 1
+    },
+    {
+      "attack_type": "Hostage Taking (Barricade Incident)",
+      "count": 5
+    },
+    {
+      "attack_type": "Unknown",
+      "count": 1
+    }
+  ],
+  "1984": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 1
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 5
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 31
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 21
+    },
+    {
+      "attack_type": "Hijacking",
+      "count": 2
+    },
+    {
+      "attack_type": "Hostage Taking (Barricade Incident)",
+      "count": 3
+    },
+    {
+      "attack_type": "Unarmed Assault",
+      "count": 4
+    }
+  ],
+  "1985": [
+    {
+      "attack_type": "Assassination",
+      "count": 3
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 27
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 11
+    },
+    {
+      "attack_type": "Hostage Taking (Barricade Incident)",
+      "count": 1
+    },
+    {
+      "attack_type": "Hostage Taking (Kidnapping)",
+      "count": 1
+    },
+    {
+      "attack_type": "Unarmed Assault",
+      "count": 1
+    }
+  ],
+  "1986": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 1
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 3
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 34
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 14
+    },
+    {
+      "attack_type": "Unarmed Assault",
+      "count": 1
+    }
+  ],
+  "1987": [
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 19
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 16
+    }
+  ],
+  "1988": [
+    {
+      "attack_type": "Assassination",
+      "count": 1
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 17
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 11
+    },
+    {
+      "attack_type": "Hostage Taking (Barricade Incident)",
+      "count": 1
+    }
+  ],
+  "1989": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 1
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 6
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 17
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 20
+    }
+  ],
+  "1990": [
+    {
+      "attack_type": "Assassination",
+      "count": 7
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 16
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 13
+    },
+    {
+      "attack_type": "Hostage Taking (Kidnapping)",
+      "count": 1
+    }
+  ],
+  "1991": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 3
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 4
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 13
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 20
+    },
+    {
+      "attack_type": "Hostage Taking (Kidnapping)",
+      "count": 1
+    }
+  ],
+  "1992": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 2
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 8
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 5
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 24
+    },
+    {
+      "attack_type": "Hostage Taking (Barricade Incident)",
+      "count": 1
+    },
+    {
+      "attack_type": "Unarmed Assault",
+      "count": 1
+    }
+  ],
+  "1994": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 15
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 22
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 19
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 23
+    },
+    {
+      "attack_type": "Hostage Taking (Barricade Incident)",
+      "count": 10
+    },
+    {
+      "attack_type": "Hostage Taking (Kidnapping)",
+      "count": 7
+    },
+    {
+      "attack_type": "Unknown",
+      "count": 5
+    }
+  ],
+  "1995": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 17
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 9
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 17
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 32
+    },
+    {
+      "attack_type": "Hostage Taking (Barricade Incident)",
+      "count": 8
+    },
+    {
+      "attack_type": "Hostage Taking (Kidnapping)",
+      "count": 6
+    },
+    {
+      "attack_type": "Unarmed Assault",
+      "count": 1
+    },
+    {
+      "attack_type": "Unknown",
+      "count": 4
+    }
+  ],
+  "1996": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 39
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 18
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 19
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 17
+    },
+    {
+      "attack_type": "Hostage Taking (Barricade Incident)",
+      "count": 1
+    },
+    {
+      "attack_type": "Hostage Taking (Kidnapping)",
+      "count": 12
+    },
+    {
+      "attack_type": "Unarmed Assault",
+      "count": 2
+    },
+    {
+      "attack_type": "Unknown",
+      "count": 3
+    }
+  ],
+  "1997": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 36
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 28
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 20
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 19
+    },
+    {
+      "attack_type": "Hostage Taking (Kidnapping)",
+      "count": 27
+    },
+    {
+      "attack_type": "Unarmed Assault",
+      "count": 2
+    },
+    {
+      "attack_type": "Unknown",
+      "count": 7
+    }
+  ],
+  "1998": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 4
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 1
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 12
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 19
+    },
+    {
+      "attack_type": "Unarmed Assault",
+      "count": 1
+    }
+  ],
+  "1999": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 10
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 8
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 23
+    },
+    {
+      "attack_type": "Hostage Taking (Kidnapping)",
+      "count": 1
+    },
+    {
+      "attack_type": "Unarmed Assault",
+      "count": 15
+    }
+  ],
+  "2000": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 12
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 1
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 6
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 27
+    },
+    {
+      "attack_type": "Hostage Taking (Barricade Incident)",
+      "count": 1
+    },
+    {
+      "attack_type": "Hostage Taking (Kidnapping)",
+      "count": 1
+    },
+    {
+      "attack_type": "Unarmed Assault",
+      "count": 3
+    }
+  ],
+  "2001": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 8
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 1
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 8
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 21
+    },
+    {
+      "attack_type": "Hijacking",
+      "count": 4
+    },
+    {
+      "attack_type": "Unarmed Assault",
+      "count": 12
+    }
+  ],
+  "2002": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 2
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 20
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 10
+    },
+    {
+      "attack_type": "Hijacking",
+      "count": 1
+    }
+  ],
+  "2003": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 2
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 7
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 25
+    },
+    {
+      "attack_type": "Unarmed Assault",
+      "count": 2
+    }
+  ],
+  "2004": [
+    {
+      "attack_type": "Assassination",
+      "count": 1
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 1
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 10
+    }
+  ],
+  "2005": [
+    {
+      "attack_type": "Assassination",
+      "count": 1
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 9
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 12
+    }
+  ],
+  "2006": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 4
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 5
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 4
+    },
+    {
+      "attack_type": "Hostage Taking (Kidnapping)",
+      "count": 1
+    },
+    {
+      "attack_type": "Unarmed Assault",
+      "count": 1
+    }
+  ],
+  "2007": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 8
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 1
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 3
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 9
+    }
+  ],
+  "2008": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 4
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 9
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 12
+    },
+    {
+      "attack_type": "Hostage Taking (Kidnapping)",
+      "count": 2
+    },
+    {
+      "attack_type": "Unarmed Assault",
+      "count": 3
+    },
+    {
+      "attack_type": "Unknown",
+      "count": 1
+    }
+  ],
+  "2009": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 8
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 1
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 5
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 3
+    }
+  ],
+  "2010": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 1
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 9
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 13
+    },
+    {
+      "attack_type": "Hostage Taking (Barricade Incident)",
+      "count": 1
+    },
+    {
+      "attack_type": "Hostage Taking (Kidnapping)",
+      "count": 1
+    },
+    {
+      "attack_type": "Unarmed Assault",
+      "count": 1
+    }
+  ],
+  "2011": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 3
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 5
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 3
+    }
+  ],
+  "2012": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 7
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 1
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 8
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 17
+    },
+    {
+      "attack_type": "Hostage Taking (Kidnapping)",
+      "count": 4
+    },
+    {
+      "attack_type": "Unarmed Assault",
+      "count": 2
+    }
+  ],
+  "2013": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 4
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 2
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 9
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 12
+    },
+    {
+      "attack_type": "Hijacking",
+      "count": 1
+    },
+    {
+      "attack_type": "Hostage Taking (Kidnapping)",
+      "count": 1
+    },
+    {
+      "attack_type": "Unarmed Assault",
+      "count": 3
+    }
+  ],
+  "2014": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 21
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 1
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 5
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 6
+    },
+    {
+      "attack_type": "Hostage Taking (Kidnapping)",
+      "count": 3
+    },
+    {
+      "attack_type": "Unarmed Assault",
+      "count": 1
+    }
+  ],
+  "2015": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 14
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 6
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 19
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 19
+    },
+    {
+      "attack_type": "Hostage Taking (Barricade Incident)",
+      "count": 2
+    },
+    {
+      "attack_type": "Hostage Taking (Kidnapping)",
+      "count": 1
+    },
+    {
+      "attack_type": "Unarmed Assault",
+      "count": 4
+    }
+  ],
+  "2016": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 22
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 6
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 9
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 38
+    },
+    {
+      "attack_type": "Hostage Taking (Barricade Incident)",
+      "count": 1
+    },
+    {
+      "attack_type": "Unarmed Assault",
+      "count": 5
+    }
+  ],
+  "2017": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 40
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 16
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 7
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 31
+    },
+    {
+      "attack_type": "Hostage Taking (Barricade Incident)",
+      "count": 2
+    },
+    {
+      "attack_type": "Hostage Taking (Kidnapping)",
+      "count": 2
+    },
+    {
+      "attack_type": "Unarmed Assault",
+      "count": 7
+    }
+  ],
+  "2018": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 22
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 18
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 30
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 30
+    },
+    {
+      "attack_type": "Hostage Taking (Kidnapping)",
+      "count": 2
+    },
+    {
+      "attack_type": "Unarmed Assault",
+      "count": 8
+    }
+  ],
+  "2019": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 26
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 25
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 2
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 35
+    },
+    {
+      "attack_type": "Hijacking",
+      "count": 1
+    },
+    {
+      "attack_type": "Hostage Taking (Barricade Incident)",
+      "count": 2
+    },
+    {
+      "attack_type": "Hostage Taking (Kidnapping)",
+      "count": 3
+    },
+    {
+      "attack_type": "Unarmed Assault",
+      "count": 14
+    }
+  ],
+  "2020": [
+    {
+      "attack_type": "Armed Assault",
+      "count": 32
+    },
+    {
+      "attack_type": "Assassination",
+      "count": 11
+    },
+    {
+      "attack_type": "Bombing/Explosion",
+      "count": 7
+    },
+    {
+      "attack_type": "Facility/Infrastructure Attack",
+      "count": 64
+    },
+    {
+      "attack_type": "Hijacking",
+      "count": 1
+    },
+    {
+      "attack_type": "Hostage Taking (Barricade Incident)",
+      "count": 1
+    },
+    {
+      "attack_type": "Hostage Taking (Kidnapping)",
+      "count": 4
+    },
+    {
+      "attack_type": "Unarmed Assault",
+      "count": 9
+    },
+    {
+      "attack_type": "Unknown",
+      "count": 1
+    }
+  ]
+}
