@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Top 10 Terrorist Groups by Year</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 20px;
+    }
+    .bar:hover {
+      opacity: 0.8;
+      stroke: black;
+      stroke-width: 1;
+    }
+    .group-label {
+      font-size: 12px;
+      fill: black;
+      text-anchor: end;
+    }
+    #yearSelect {
+      margin-bottom: 15px;
+      padding: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h2>Top 10 Terrorist Groups by Number of Incidents</h2>
+
+  <label for="yearSelect">Select Year:</label>
+  <select id="yearSelect"></select>
+
+  <svg width="900" height="500"></svg>
+
+  <script>
+    const margin = { top: 40, right: 30, bottom: 40, left: 250 };
+    const width = 900 - margin.left - margin.right;
+    const height = 500 - margin.top - margin.bottom;
+
+    const svg = d3.select("svg")
+      .append("g")
+      .attr("transform", `translate(${margin.left},${margin.top})`);
+
+    let dataByYear;
+
+    d3.json("top_groups_by_year.json").then(data => {
+      dataByYear = data;
+
+      // Populate year dropdown
+      const years = Object.keys(dataByYear).sort();
+      const yearSelect = d3.select("#yearSelect");
+
+      years.forEach(year => {
+        yearSelect.append("option").attr("value", year).text(year);
+      });
+
+      // Initial chart
+      updateChart(years[0]);
+
+      // On year change
+      yearSelect.on("change", function () {
+        updateChart(this.value);
+      });
+    });
+
+    function updateChart(year) {
+      const data = dataByYear[year];
+
+      // Scales
+      const x = d3.scaleLinear()
+        .domain([0, d3.max(data, d => d.count)])
+        .range([0, width]);
+
+      const y = d3.scaleBand()
+        .domain(data.map(d => d.group))
+        .range([0, height])
+        .padding(0.1);
+
+      const colorScale = d3.scaleSequential()
+        .domain([0, d3.max(data, d => d.count)])
+        .interpolator(d3.interpolateReds);
+
+      // Clear previous
+      svg.selectAll("*").remove();
+
+      // X Axis
+      svg.append("g")
+        .call(d3.axisTop(x).ticks(5))
+        .append("text")
+        .attr("x", width)
+        .attr("y", -25)
+        .attr("text-anchor", "end")
+        .attr("fill", "#000")
+        .text("Number of Incidents");
+
+      // Y Axis
+      svg.append("g")
+        .call(d3.axisLeft(y).tickSize(0))
+        .selectAll("text")
+        .attr("class", "group-label");
+
+      // Bars
+      svg.selectAll(".bar")
+        .data(data, d => d.group)
+        .join("rect")
+        .attr("class", "bar")
+        .attr("x", 0)
+        .attr("y", d => y(d.group))
+        .attr("height", y.bandwidth())
+        .attr("fill", d => colorScale(d.count))
+        .on("mouseover", function () {
+          d3.select(this)
+            .attr("stroke", "black")
+            .attr("stroke-width", 1)
+            .attr("fill", "orange");
+        })
+        .on("mouseout", function (event, d) {
+          d3.select(this)
+            .attr("stroke", "none")
+            .attr("fill", d => colorScale(d.count));
+        })
+        .transition()
+        .duration(750)
+        .attr("width", d => x(d.count));
+
+      // Labels
+      svg.selectAll(".label")
+        .data(data)
+        .join("text")
+        .attr("x", d => x(d.count) + 5)
+        .attr("y", d => y(d.group) + y.bandwidth() / 2 + 4)
+        .text(d => d.count)
+        .attr("font-size", "11px");
+    }
+  </script>
+</body>
+</html>

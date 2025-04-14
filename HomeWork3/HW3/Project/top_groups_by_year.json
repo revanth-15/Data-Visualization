@@ -1,0 +1,1958 @@
+{
+  "1970": [
+    {
+      "group": "Left-Wing Militants",
+      "count": 108
+    },
+    {
+      "group": "Black Nationalists",
+      "count": 69
+    },
+    {
+      "group": "Student Radicals",
+      "count": 54
+    },
+    {
+      "group": "White supremacists/nationalists",
+      "count": 30
+    },
+    {
+      "group": "Weather Underground, Weathermen",
+      "count": 22
+    },
+    {
+      "group": "Strikers",
+      "count": 22
+    },
+    {
+      "group": "Black Panthers",
+      "count": 18
+    },
+    {
+      "group": "Armed Commandos of Liberation",
+      "count": 12
+    },
+    {
+      "group": "Armed Revolutionary Independence Movement (MIRA)",
+      "count": 10
+    },
+    {
+      "group": "Jewish Defense League (JDL)",
+      "count": 7
+    }
+  ],
+  "1971": [
+    {
+      "group": "Left-Wing Militants",
+      "count": 48
+    },
+    {
+      "group": "Chicano Liberation Front",
+      "count": 22
+    },
+    {
+      "group": "Black Liberation Army",
+      "count": 16
+    },
+    {
+      "group": "Armed Revolutionary Independence Movement (MIRA)",
+      "count": 16
+    },
+    {
+      "group": "Black Nationalists",
+      "count": 13
+    },
+    {
+      "group": "Student Radicals",
+      "count": 13
+    },
+    {
+      "group": "Weather Underground, Weathermen",
+      "count": 12
+    },
+    {
+      "group": "Jewish Defense League (JDL)",
+      "count": 9
+    },
+    {
+      "group": "White supremacists/nationalists",
+      "count": 8
+    },
+    {
+      "group": "Chicano Radicals",
+      "count": 7
+    }
+  ],
+  "1972": [
+    {
+      "group": "Left-Wing Militants",
+      "count": 13
+    },
+    {
+      "group": "Jewish Defense League (JDL)",
+      "count": 9
+    },
+    {
+      "group": "Black September",
+      "count": 8
+    },
+    {
+      "group": "Black Liberation Army",
+      "count": 5
+    },
+    {
+      "group": "Puerto Rican Revolutionary Movement",
+      "count": 5
+    },
+    {
+      "group": "Secret Cuban Government",
+      "count": 4
+    },
+    {
+      "group": "Student Radicals",
+      "count": 4
+    },
+    {
+      "group": "Armed Revolutionary Independence Movement (MIRA)",
+      "count": 3
+    },
+    {
+      "group": "Black Panthers",
+      "count": 3
+    },
+    {
+      "group": "Secret Army Organization",
+      "count": 2
+    }
+  ],
+  "1973": [
+    {
+      "group": "Zebra killers",
+      "count": 12
+    },
+    {
+      "group": "Black Liberation Army",
+      "count": 10
+    },
+    {
+      "group": "Black September",
+      "count": 4
+    },
+    {
+      "group": "Black Muslims",
+      "count": 3
+    },
+    {
+      "group": "Revolutionary Student Front",
+      "count": 3
+    },
+    {
+      "group": "Weather Underground, Weathermen",
+      "count": 3
+    },
+    {
+      "group": "Secret Cuban Government",
+      "count": 2
+    },
+    {
+      "group": "Irish Republican Army (IRA)",
+      "count": 2
+    },
+    {
+      "group": "Armenians",
+      "count": 1
+    },
+    {
+      "group": "Armenian Group",
+      "count": 1
+    }
+  ],
+  "1974": [
+    {
+      "group": "Fuerzas Armadas de Liberacion Nacional (FALN)",
+      "count": 18
+    },
+    {
+      "group": "National Front for the Liberation of Cuba (FLNC)",
+      "count": 9
+    },
+    {
+      "group": "Zebra killers",
+      "count": 8
+    },
+    {
+      "group": "New World Liberation Front (NWLF)",
+      "count": 7
+    },
+    {
+      "group": "Symbionese Liberation Army (SLA)",
+      "count": 4
+    },
+    {
+      "group": "Jewish Defense League (JDL)",
+      "count": 4
+    },
+    {
+      "group": "Anti-Government extremists",
+      "count": 3
+    },
+    {
+      "group": "Latin America Anti-Communist Army (LAACA)",
+      "count": 3
+    },
+    {
+      "group": "Chicano Radicals",
+      "count": 3
+    },
+    {
+      "group": "Weather Underground, Weathermen",
+      "count": 3
+    }
+  ],
+  "1975": [
+    {
+      "group": "New World Liberation Front (NWLF)",
+      "count": 32
+    },
+    {
+      "group": "Fuerzas Armadas de Liberacion Nacional (FALN)",
+      "count": 24
+    },
+    {
+      "group": "Cuban Action",
+      "count": 11
+    },
+    {
+      "group": "23rd of September Communist League",
+      "count": 7
+    },
+    {
+      "group": "George Jackson Brigade",
+      "count": 7
+    },
+    {
+      "group": "Cuban Exiles",
+      "count": 6
+    },
+    {
+      "group": "American Indian Movement",
+      "count": 5
+    },
+    {
+      "group": "Weather Underground, Weathermen",
+      "count": 5
+    },
+    {
+      "group": "Jewish Defense League (JDL)",
+      "count": 3
+    },
+    {
+      "group": "National Front for the Liberation of Cuba (FLNC)",
+      "count": 3
+    }
+  ],
+  "1976": [
+    {
+      "group": "Fuerzas Armadas de Liberacion Nacional (FALN)",
+      "count": 18
+    },
+    {
+      "group": "New World Liberation Front (NWLF)",
+      "count": 16
+    },
+    {
+      "group": "23rd of September Communist League",
+      "count": 14
+    },
+    {
+      "group": "Jewish Armed Resistance",
+      "count": 9
+    },
+    {
+      "group": "Jewish Defense League (JDL)",
+      "count": 6
+    },
+    {
+      "group": "Fred Hampton Unit of the People's Forces",
+      "count": 5
+    },
+    {
+      "group": "United Freedom Front (UFF)",
+      "count": 4
+    },
+    {
+      "group": "Independent Armed Revolutionary Commandos (CRIA)",
+      "count": 4
+    },
+    {
+      "group": "Omega-7",
+      "count": 4
+    },
+    {
+      "group": "White supremacists/nationalists",
+      "count": 3
+    }
+  ],
+  "1977": [
+    {
+      "group": "New World Liberation Front (NWLF)",
+      "count": 28
+    },
+    {
+      "group": "Fuerzas Armadas de Liberacion Nacional (FALN)",
+      "count": 24
+    },
+    {
+      "group": "Independent Armed Revolutionary Commandos (CRIA)",
+      "count": 15
+    },
+    {
+      "group": "Union of the People (UDP)",
+      "count": 12
+    },
+    {
+      "group": "George Jackson Brigade",
+      "count": 12
+    },
+    {
+      "group": "Luis Boitel Commandos",
+      "count": 9
+    },
+    {
+      "group": "23rd of September Communist League",
+      "count": 5
+    },
+    {
+      "group": "Anti-Abortion extremists",
+      "count": 4
+    },
+    {
+      "group": "Omega-7",
+      "count": 4
+    },
+    {
+      "group": "Jewish Armed Resistance",
+      "count": 3
+    }
+  ],
+  "1978": [
+    {
+      "group": "Fuerzas Armadas de Liberacion Nacional (FALN)",
+      "count": 12
+    },
+    {
+      "group": "Omega-7",
+      "count": 9
+    },
+    {
+      "group": "Union of the People (UDP)",
+      "count": 9
+    },
+    {
+      "group": "23rd of September Communist League",
+      "count": 8
+    },
+    {
+      "group": "Puerto Rican Nationalists",
+      "count": 8
+    },
+    {
+      "group": "Revolutionary Commandos of the People (CRP)",
+      "count": 7
+    },
+    {
+      "group": "Anti-Abortion extremists",
+      "count": 6
+    },
+    {
+      "group": "Independent Peasants Union",
+      "count": 5
+    },
+    {
+      "group": "New Jewish Defense League",
+      "count": 4
+    },
+    {
+      "group": "Jewish Committee of Concern",
+      "count": 3
+    }
+  ],
+  "1979": [
+    {
+      "group": "Fuerzas Armadas de Liberacion Nacional (FALN)",
+      "count": 11
+    },
+    {
+      "group": "Omega-7",
+      "count": 11
+    },
+    {
+      "group": "23rd of September Communist League",
+      "count": 6
+    },
+    {
+      "group": "International Committee Against Nazism",
+      "count": 5
+    },
+    {
+      "group": "Revolutionary Commandos of the People (CRP)",
+      "count": 3
+    },
+    {
+      "group": "White supremacists/nationalists",
+      "count": 3
+    },
+    {
+      "group": "Puerto Rican Nationalists",
+      "count": 2
+    },
+    {
+      "group": "Ku Klux Klan",
+      "count": 2
+    },
+    {
+      "group": "Anti-Technology extremists",
+      "count": 2
+    },
+    {
+      "group": "Croatian Freedom Fighters",
+      "count": 1
+    }
+  ],
+  "1980": [
+    {
+      "group": "White supremacists/nationalists",
+      "count": 9
+    },
+    {
+      "group": "Omega-7",
+      "count": 8
+    },
+    {
+      "group": "Organization of Volunteers for the Puerto Rican Revolution",
+      "count": 5
+    },
+    {
+      "group": "Ku Klux Klan",
+      "count": 4
+    },
+    {
+      "group": "Croatian Freedom Fighters",
+      "count": 3
+    },
+    {
+      "group": "Jewish Defense League (JDL)",
+      "count": 3
+    },
+    {
+      "group": "Justice Commandos for the Armenian Genocide",
+      "count": 3
+    },
+    {
+      "group": "Fuerzas Armadas de Liberacion Nacional (FALN)",
+      "count": 2
+    },
+    {
+      "group": "National Independent Committee for Political Prisoners and Persecuted and Missing Persons",
+      "count": 2
+    },
+    {
+      "group": "Black American Moslems",
+      "count": 2
+    }
+  ],
+  "1981": [
+    {
+      "group": "Macheteros",
+      "count": 9
+    },
+    {
+      "group": "Jewish Defense League (JDL)",
+      "count": 8
+    },
+    {
+      "group": "Armenian Secret Army for the Liberation of Armenia",
+      "count": 4
+    },
+    {
+      "group": "Omega-7",
+      "count": 4
+    },
+    {
+      "group": "May 19 Communist Order",
+      "count": 4
+    },
+    {
+      "group": "Puerto Rican Armed Resistance",
+      "count": 4
+    },
+    {
+      "group": "Ku Klux Klan",
+      "count": 3
+    },
+    {
+      "group": "Ninth of June Organization",
+      "count": 2
+    },
+    {
+      "group": "Armed Forces of Popular Resistance (FARP)",
+      "count": 1
+    },
+    {
+      "group": "Anti-Technology extremists",
+      "count": 1
+    }
+  ],
+  "1982": [
+    {
+      "group": "Fuerzas Armadas de Liberacion Nacional (FALN)",
+      "count": 10
+    },
+    {
+      "group": "Omega-7",
+      "count": 8
+    },
+    {
+      "group": "Jewish Defense League (JDL)",
+      "count": 7
+    },
+    {
+      "group": "Macheteros",
+      "count": 6
+    },
+    {
+      "group": "Justice Commandos for the Armenian Genocide",
+      "count": 5
+    },
+    {
+      "group": "Armenian Secret Army for the Liberation of Armenia",
+      "count": 5
+    },
+    {
+      "group": "Army of God",
+      "count": 4
+    },
+    {
+      "group": "Provisional Coordinating Committee for the Defense of Labor",
+      "count": 4
+    },
+    {
+      "group": "United Freedom Front (UFF)",
+      "count": 4
+    },
+    {
+      "group": "Anti-Abortion extremists",
+      "count": 3
+    }
+  ],
+  "1983": [
+    {
+      "group": "United Freedom Front (UFF)",
+      "count": 8
+    },
+    {
+      "group": "Omega-7",
+      "count": 6
+    },
+    {
+      "group": "May 19 Communist Order",
+      "count": 4
+    },
+    {
+      "group": "Macheteros",
+      "count": 4
+    },
+    {
+      "group": "Covenant, Sword and the Arm of the Lord (CSA)",
+      "count": 4
+    },
+    {
+      "group": "Jewish Defense League (JDL)",
+      "count": 2
+    },
+    {
+      "group": "Anti-Abortion extremists",
+      "count": 2
+    },
+    {
+      "group": "Basque Fatherland and Freedom (ETA)",
+      "count": 1
+    },
+    {
+      "group": "Iranian extremists",
+      "count": 1
+    },
+    {
+      "group": "Jamaat-al-Fuqra",
+      "count": 1
+    }
+  ],
+  "1984": [
+    {
+      "group": "Anti-Abortion extremists",
+      "count": 18
+    },
+    {
+      "group": "Army of God",
+      "count": 9
+    },
+    {
+      "group": "The Order (Silent Brotherhood)",
+      "count": 7
+    },
+    {
+      "group": "United Freedom Front (UFF)",
+      "count": 6
+    },
+    {
+      "group": "Organization of Volunteers for the Puerto Rican Revolution",
+      "count": 5
+    },
+    {
+      "group": "Rajneeshees",
+      "count": 4
+    },
+    {
+      "group": "May 19 Communist Order",
+      "count": 3
+    },
+    {
+      "group": "Jamaat-al-Fuqra",
+      "count": 3
+    },
+    {
+      "group": "Black Liberation Army",
+      "count": 2
+    },
+    {
+      "group": "Alpha-66 (Cuban counterrevolutionary)",
+      "count": 1
+    }
+  ],
+  "1985": [
+    {
+      "group": "Anti-Abortion extremists",
+      "count": 13
+    },
+    {
+      "group": "Jewish Defense League (JDL)",
+      "count": 5
+    },
+    {
+      "group": "Anti-Technology extremists",
+      "count": 4
+    },
+    {
+      "group": "Organization of Volunteers for the Puerto Rican Revolution",
+      "count": 2
+    },
+    {
+      "group": "Jewish Extremists",
+      "count": 2
+    },
+    {
+      "group": "White supremacists/nationalists",
+      "count": 2
+    },
+    {
+      "group": "Army of God",
+      "count": 1
+    },
+    {
+      "group": "Armenian Secret Army for the Liberation of Armenia",
+      "count": 1
+    },
+    {
+      "group": "Armenian Revolutionary Army",
+      "count": 1
+    },
+    {
+      "group": "Anti-Muslim extremists",
+      "count": 1
+    }
+  ],
+  "1986": [
+    {
+      "group": "Anti-Abortion extremists",
+      "count": 13
+    },
+    {
+      "group": "Macheteros",
+      "count": 8
+    },
+    {
+      "group": "Aryan Nation",
+      "count": 4
+    },
+    {
+      "group": "Jewish Defense League (JDL)",
+      "count": 4
+    },
+    {
+      "group": "Puerto Rican Nationalists",
+      "count": 3
+    },
+    {
+      "group": "The Order II (Bruder Schweigen Strike Force II)",
+      "count": 3
+    },
+    {
+      "group": "Organization of Volunteers for the Puerto Rican Revolution",
+      "count": 2
+    },
+    {
+      "group": "Anti-Government Group",
+      "count": 1
+    },
+    {
+      "group": "Commando Internacionalista Simon Bolivar",
+      "count": 1
+    },
+    {
+      "group": "El Movimiento Revolucionario Independinista",
+      "count": 1
+    }
+  ],
+  "1987": [
+    {
+      "group": "Anti-Abortion extremists",
+      "count": 11
+    },
+    {
+      "group": "Guerrilla Forces for Liberation",
+      "count": 7
+    },
+    {
+      "group": "Animal Liberation Front (ALF)",
+      "count": 4
+    },
+    {
+      "group": "Cuban Exiles",
+      "count": 4
+    },
+    {
+      "group": "Evan Mecham Eco-Terrorist International Conspiracy (EMETIC)",
+      "count": 2
+    },
+    {
+      "group": "Anti-Castro Group",
+      "count": 1
+    },
+    {
+      "group": "Aryan Nation",
+      "count": 1
+    },
+    {
+      "group": "Anti-Technology extremists",
+      "count": 1
+    },
+    {
+      "group": "Nuclear Liberation Front",
+      "count": 1
+    },
+    {
+      "group": "Up the IRS, Inc",
+      "count": 1
+    }
+  ],
+  "1988": [
+    {
+      "group": "Anti-Abortion extremists",
+      "count": 7
+    },
+    {
+      "group": "Cuban Exiles",
+      "count": 4
+    },
+    {
+      "group": "Pedro Albizu Campos Revolutionary Forces",
+      "count": 3
+    },
+    {
+      "group": "Up the IRS, Inc",
+      "count": 2
+    },
+    {
+      "group": "Evan Mecham Eco-Terrorist International Conspiracy (EMETIC)",
+      "count": 2
+    },
+    {
+      "group": "Animal Rights extremists",
+      "count": 1
+    },
+    {
+      "group": "Lebanese Man",
+      "count": 1
+    },
+    {
+      "group": "Organization Alliance of Cuban Intransigence",
+      "count": 1
+    },
+    {
+      "group": "Mormon Extremist",
+      "count": 1
+    },
+    {
+      "group": "Puerto Rican Nationalists",
+      "count": 1
+    }
+  ],
+  "1989": [
+    {
+      "group": "Anti-Abortion extremists",
+      "count": 7
+    },
+    {
+      "group": "Americans for a Competent Federal Judicial System",
+      "count": 5
+    },
+    {
+      "group": "Cuban Exiles",
+      "count": 3
+    },
+    {
+      "group": "Animal Liberation Front (ALF)",
+      "count": 2
+    },
+    {
+      "group": "Macheteros",
+      "count": 2
+    },
+    {
+      "group": "Army of God",
+      "count": 1
+    },
+    {
+      "group": "Anti-feminist extremists",
+      "count": 1
+    },
+    {
+      "group": "Earth First!",
+      "count": 1
+    },
+    {
+      "group": "Evan Mecham Eco-Terrorist International Conspiracy (EMETIC)",
+      "count": 1
+    },
+    {
+      "group": "Up the IRS, Inc",
+      "count": 1
+    }
+  ],
+  "1990": [
+    {
+      "group": "Anti-Abortion extremists",
+      "count": 8
+    },
+    {
+      "group": "Pedro Albizu Campos Revolutionary Forces",
+      "count": 4
+    },
+    {
+      "group": "Anti-Environmentalists",
+      "count": 2
+    },
+    {
+      "group": "Earth Night Action Group",
+      "count": 1
+    },
+    {
+      "group": "Democratic Revolutionary Party",
+      "count": 1
+    },
+    {
+      "group": "Environmentalists",
+      "count": 1
+    },
+    {
+      "group": "Jamaat-al-Fuqra",
+      "count": 1
+    },
+    {
+      "group": "Ku Klux Klan",
+      "count": 1
+    },
+    {
+      "group": "Muslim extremists",
+      "count": 1
+    },
+    {
+      "group": "Poor People's Party",
+      "count": 1
+    }
+  ],
+  "1991": [
+    {
+      "group": "Anti-Abortion extremists",
+      "count": 10
+    },
+    {
+      "group": "Popular Liberation Army (Puerto Rico)",
+      "count": 4
+    },
+    {
+      "group": "Animal Liberation Front (ALF)",
+      "count": 3
+    },
+    {
+      "group": "Tontons Macoutes",
+      "count": 3
+    },
+    {
+      "group": "Revolutionary Worker Clandestine Union of the People Party (PROCUP)",
+      "count": 2
+    },
+    {
+      "group": "Christian Liberation Army",
+      "count": 2
+    },
+    {
+      "group": "Up the IRS, Inc",
+      "count": 2
+    },
+    {
+      "group": "Male supremacists",
+      "count": 1
+    },
+    {
+      "group": "Movement for Triqui Unification and Struggle",
+      "count": 1
+    },
+    {
+      "group": "Puerto Rican Nationalists",
+      "count": 1
+    }
+  ],
+  "1992": [
+    {
+      "group": "Anti-Abortion extremists",
+      "count": 17
+    },
+    {
+      "group": "Animal Liberation Front (ALF)",
+      "count": 3
+    },
+    {
+      "group": "Animal Rights extremists",
+      "count": 1
+    },
+    {
+      "group": "Anti-Government Group",
+      "count": 1
+    },
+    {
+      "group": "Anti-Iran Government Exiles",
+      "count": 1
+    },
+    {
+      "group": "Basque Fatherland and Freedom (ETA)",
+      "count": 1
+    },
+    {
+      "group": "Boricua Revolutionary Front",
+      "count": 1
+    },
+    {
+      "group": "Fourth Reich Skinheads",
+      "count": 1
+    },
+    {
+      "group": "Kahane Chai",
+      "count": 1
+    },
+    {
+      "group": "Medellin Drug Cartel",
+      "count": 1
+    }
+  ],
+  "1994": [
+    {
+      "group": "Anti-Abortion extremists",
+      "count": 17
+    },
+    {
+      "group": "Zapatista National Liberation Army",
+      "count": 11
+    },
+    {
+      "group": "Aryan Republican Army",
+      "count": 9
+    },
+    {
+      "group": "Neo-Nazi extremists",
+      "count": 4
+    },
+    {
+      "group": "Earth First!",
+      "count": 2
+    },
+    {
+      "group": "Farm Animal Revenge Militia (FARM)",
+      "count": 2
+    },
+    {
+      "group": "Maccabee Squad and the Shield of David",
+      "count": 2
+    },
+    {
+      "group": "Anti-Semitic extremists",
+      "count": 1
+    },
+    {
+      "group": "Anti-Castro Group",
+      "count": 1
+    },
+    {
+      "group": "Army of God",
+      "count": 1
+    }
+  ],
+  "1995": [
+    {
+      "group": "Anti-Abortion extremists",
+      "count": 23
+    },
+    {
+      "group": "Aryan Republican Army",
+      "count": 7
+    },
+    {
+      "group": "Zapatista National Liberation Army",
+      "count": 6
+    },
+    {
+      "group": "Animal Liberation Front (ALF)",
+      "count": 5
+    },
+    {
+      "group": "Democratic Revolutionary Party",
+      "count": 3
+    },
+    {
+      "group": "Ku Klux Klan",
+      "count": 2
+    },
+    {
+      "group": "Anti-Government extremists",
+      "count": 1
+    },
+    {
+      "group": "Anti-Technology extremists",
+      "count": 1
+    },
+    {
+      "group": "Anti-Government Group",
+      "count": 1
+    },
+    {
+      "group": "Black Nationalists",
+      "count": 1
+    }
+  ],
+  "1996": [
+    {
+      "group": "Popular Revolutionary Army (Mexico)",
+      "count": 16
+    },
+    {
+      "group": "Anti-Abortion extremists",
+      "count": 10
+    },
+    {
+      "group": "Democratic Revolutionary Party",
+      "count": 6
+    },
+    {
+      "group": "Phineas Priesthood",
+      "count": 4
+    },
+    {
+      "group": "Zapatista National Liberation Army",
+      "count": 3
+    },
+    {
+      "group": "Animal Liberation Front (ALF)",
+      "count": 2
+    },
+    {
+      "group": "Militant Peasants (NFI)",
+      "count": 2
+    },
+    {
+      "group": "Earth Liberation Front (ELF)",
+      "count": 2
+    },
+    {
+      "group": "Gunmen",
+      "count": 2
+    },
+    {
+      "group": "White supremacists/nationalists",
+      "count": 2
+    }
+  ],
+  "1997": [
+    {
+      "group": "Anti-Abortion extremists",
+      "count": 14
+    },
+    {
+      "group": "Institutional Revolutionary Party (PRI)",
+      "count": 14
+    },
+    {
+      "group": "Army of God",
+      "count": 6
+    },
+    {
+      "group": "Animal Liberation Front (ALF)",
+      "count": 5
+    },
+    {
+      "group": "Paramilitaries",
+      "count": 2
+    },
+    {
+      "group": "Anti-Semitic extremists",
+      "count": 1
+    },
+    {
+      "group": "Democratic Revolutionary Party",
+      "count": 1
+    },
+    {
+      "group": "Anti-Government Group",
+      "count": 1
+    },
+    {
+      "group": "Islamist extremists",
+      "count": 1
+    },
+    {
+      "group": "Jewish Extremists",
+      "count": 1
+    }
+  ],
+  "1998": [
+    {
+      "group": "Animal Liberation Front (ALF)",
+      "count": 8
+    },
+    {
+      "group": "Anti-Abortion extremists",
+      "count": 7
+    },
+    {
+      "group": "Macheteros",
+      "count": 3
+    },
+    {
+      "group": "Army of God",
+      "count": 2
+    },
+    {
+      "group": "Popular Revolutionary Army (Mexico)",
+      "count": 2
+    },
+    {
+      "group": "Earth Liberation Front (ELF)",
+      "count": 2
+    },
+    {
+      "group": "Anti-Environmentalists",
+      "count": 1
+    },
+    {
+      "group": "Gunmen",
+      "count": 1
+    }
+  ],
+  "1999": [
+    {
+      "group": "The Justice Department",
+      "count": 14
+    },
+    {
+      "group": "Anti-Abortion extremists",
+      "count": 8
+    },
+    {
+      "group": "Animal Liberation Front (ALF)",
+      "count": 7
+    },
+    {
+      "group": "World Church of the Creator",
+      "count": 7
+    },
+    {
+      "group": "Earth Liberation Front (ELF)",
+      "count": 4
+    },
+    {
+      "group": "White supremacists/nationalists",
+      "count": 4
+    },
+    {
+      "group": "Anti-Semitic extremists",
+      "count": 3
+    },
+    {
+      "group": "Anti-Environmentalists",
+      "count": 1
+    },
+    {
+      "group": "Anti-Government Group",
+      "count": 1
+    },
+    {
+      "group": "Aryan Nation",
+      "count": 1
+    }
+  ],
+  "2000": [
+    {
+      "group": "Earth Liberation Front (ELF)",
+      "count": 8
+    },
+    {
+      "group": "Coalition to Save the Preserves (CSP)",
+      "count": 6
+    },
+    {
+      "group": "White supremacists/nationalists",
+      "count": 6
+    },
+    {
+      "group": "Animal Liberation Front (ALF)",
+      "count": 6
+    },
+    {
+      "group": "Anti-Abortion extremists",
+      "count": 5
+    },
+    {
+      "group": "Anti-White extremists",
+      "count": 4
+    },
+    {
+      "group": "Environmentalists",
+      "count": 2
+    },
+    {
+      "group": "Baby Liberation Army",
+      "count": 1
+    },
+    {
+      "group": "Anti-Semitic extremists",
+      "count": 1
+    },
+    {
+      "group": "Fuerzas Armadas Revolucionarias del Pueblo (FARP)",
+      "count": 1
+    }
+  ],
+  "2001": [
+    {
+      "group": "Earth Liberation Front (ELF)",
+      "count": 13
+    },
+    {
+      "group": "Animal Liberation Front (ALF)",
+      "count": 5
+    },
+    {
+      "group": "Al-Qaida",
+      "count": 4
+    },
+    {
+      "group": "White supremacists/nationalists",
+      "count": 3
+    },
+    {
+      "group": "Anti-Immigrant extremists",
+      "count": 3
+    },
+    {
+      "group": "Anti-Abortion extremists",
+      "count": 2
+    },
+    {
+      "group": "Coalition to Save the Preserves (CSP)",
+      "count": 2
+    },
+    {
+      "group": "Fuerzas Armadas Revolucionarias del Pueblo (FARP)",
+      "count": 2
+    },
+    {
+      "group": "Anti-United States extremists",
+      "count": 1
+    },
+    {
+      "group": "Environmentalists",
+      "count": 1
+    }
+  ],
+  "2002": [
+    {
+      "group": "Anti-Government extremists",
+      "count": 18
+    },
+    {
+      "group": "Earth Liberation Front (ELF)",
+      "count": 7
+    },
+    {
+      "group": "Animal Liberation Front (ALF)",
+      "count": 2
+    },
+    {
+      "group": "Jihadi-inspired extremists",
+      "count": 2
+    },
+    {
+      "group": "Anti-Kim Jong-il extremists",
+      "count": 1
+    },
+    {
+      "group": "Anti-Israeli extremists",
+      "count": 1
+    }
+  ],
+  "2003": [
+    {
+      "group": "Earth Liberation Front (ELF)",
+      "count": 13
+    },
+    {
+      "group": "Animal Liberation Front (ALF)",
+      "count": 9
+    },
+    {
+      "group": "Anti-Abortion extremists",
+      "count": 2
+    },
+    {
+      "group": "Anti-Muslim extremists",
+      "count": 2
+    },
+    {
+      "group": "Muslim extremists",
+      "count": 1
+    },
+    {
+      "group": "Revolutionary Cells-Animal Liberation Brigade",
+      "count": 1
+    },
+    {
+      "group": "White supremacists/nationalists",
+      "count": 1
+    }
+  ],
+  "2004": [
+    {
+      "group": "Earth Liberation Front (ELF)",
+      "count": 4
+    },
+    {
+      "group": "Animal Liberation Front (ALF)",
+      "count": 1
+    },
+    {
+      "group": "Anti-Abortion extremists",
+      "count": 1
+    },
+    {
+      "group": "Environmentalists",
+      "count": 1
+    },
+    {
+      "group": "Hamas (Islamic Resistance Movement)",
+      "count": 1
+    },
+    {
+      "group": "Initiative de Resistance Internationaliste",
+      "count": 1
+    },
+    {
+      "group": "White supremacists/nationalists",
+      "count": 1
+    }
+  ],
+  "2005": [
+    {
+      "group": "Earth Liberation Front (ELF)",
+      "count": 7
+    },
+    {
+      "group": "Anti-Abortion extremists",
+      "count": 4
+    },
+    {
+      "group": "Animal Liberation Front (ALF)",
+      "count": 1
+    },
+    {
+      "group": "Anti-Muslim extremists",
+      "count": 1
+    }
+  ],
+  "2006": [
+    {
+      "group": "Earth Liberation Front (ELF)",
+      "count": 3
+    },
+    {
+      "group": "Animal Liberation Front (ALF)",
+      "count": 2
+    },
+    {
+      "group": "Anti-Abortion extremists",
+      "count": 1
+    },
+    {
+      "group": "Anti-Semitic extremists",
+      "count": 1
+    },
+    {
+      "group": "Muslim extremists",
+      "count": 1
+    }
+  ],
+  "2007": [
+    {
+      "group": "Earth Liberation Front (ELF)",
+      "count": 3
+    },
+    {
+      "group": "Anti-Muslim extremists",
+      "count": 3
+    },
+    {
+      "group": "Popular Revolutionary Army (Mexico)",
+      "count": 2
+    },
+    {
+      "group": "Anti-Abortion extremists",
+      "count": 2
+    },
+    {
+      "group": "Animal Liberation Front (ALF)",
+      "count": 1
+    },
+    {
+      "group": "Revolutionary Cells-Animal Liberation Brigade",
+      "count": 1
+    }
+  ],
+  "2008": [
+    {
+      "group": "Animal Liberation Front (ALF)",
+      "count": 3
+    },
+    {
+      "group": "Anti-Abortion extremists",
+      "count": 2
+    },
+    {
+      "group": "Neo-Nazi extremists",
+      "count": 2
+    },
+    {
+      "group": "Earth Liberation Front (ELF)",
+      "count": 1
+    },
+    {
+      "group": "Anti-Liberal extremists",
+      "count": 1
+    },
+    {
+      "group": "Gulf Cartel",
+      "count": 1
+    },
+    {
+      "group": "Juarez Cartel (Carrillo-Fuentes / Mexico)",
+      "count": 1
+    },
+    {
+      "group": "Ku Klux Klan",
+      "count": 1
+    },
+    {
+      "group": "White supremacists/nationalists",
+      "count": 1
+    }
+  ],
+  "2009": [
+    {
+      "group": "Jihadi-inspired extremists",
+      "count": 3
+    },
+    {
+      "group": "Al-Qaida in the Arabian Peninsula (AQAP)",
+      "count": 1
+    },
+    {
+      "group": "Animal Liberation Front (ALF)",
+      "count": 1
+    },
+    {
+      "group": "Anti-Semitic extremists",
+      "count": 1
+    },
+    {
+      "group": "Anti-Abortion extremists",
+      "count": 1
+    },
+    {
+      "group": "Earth Liberation Front (ELF)",
+      "count": 1
+    },
+    {
+      "group": "Incel extremists",
+      "count": 1
+    },
+    {
+      "group": "Minutemen American Defense",
+      "count": 1
+    },
+    {
+      "group": "White supremacists/nationalists",
+      "count": 1
+    }
+  ],
+  "2010": [
+    {
+      "group": "Animal Liberation Front (ALF)",
+      "count": 7
+    },
+    {
+      "group": "Jihadi-inspired extremists",
+      "count": 5
+    },
+    {
+      "group": "Anti-Government extremists",
+      "count": 2
+    },
+    {
+      "group": "Anti-Arab extremists",
+      "count": 1
+    },
+    {
+      "group": "Earth Liberation Front (ELF)",
+      "count": 1
+    },
+    {
+      "group": "Anti-Muslim extremists",
+      "count": 1
+    },
+    {
+      "group": "Fighting For Freedom Coalition (FFFC-Ottawa)",
+      "count": 1
+    },
+    {
+      "group": "Tehrik-i-Taliban Pakistan (TTP)",
+      "count": 1
+    },
+    {
+      "group": "The Justice Department",
+      "count": 1
+    },
+    {
+      "group": "Zapatista National Liberation Army",
+      "count": 1
+    }
+  ],
+  "2011": [
+    {
+      "group": "Animal Liberation Front (ALF)",
+      "count": 1
+    },
+    {
+      "group": "Anti-Government extremists",
+      "count": 1
+    },
+    {
+      "group": "Earth Liberation Front (ELF)",
+      "count": 1
+    },
+    {
+      "group": "Individuals Tending Toward Savagery",
+      "count": 1
+    }
+  ],
+  "2012": [
+    {
+      "group": "Anti-Muslim extremists",
+      "count": 7
+    },
+    {
+      "group": "Anti-Abortion extremists",
+      "count": 4
+    },
+    {
+      "group": "Anti-Semitic extremists",
+      "count": 2
+    },
+    {
+      "group": "White supremacists/nationalists",
+      "count": 2
+    },
+    {
+      "group": "Zetas",
+      "count": 2
+    },
+    {
+      "group": "Force Etudiante Critique",
+      "count": 1
+    },
+    {
+      "group": "Iraqi extremists",
+      "count": 1
+    },
+    {
+      "group": "Muslim extremists",
+      "count": 1
+    },
+    {
+      "group": "Knights Templar (Caballeros Templarios)",
+      "count": 1
+    },
+    {
+      "group": "Sovereign Citizen",
+      "count": 1
+    }
+  ],
+  "2013": [
+    {
+      "group": "Muslim extremists",
+      "count": 4
+    },
+    {
+      "group": "Anti-Gun Control extremists",
+      "count": 3
+    },
+    {
+      "group": "Anti-Abortion extremists",
+      "count": 2
+    },
+    {
+      "group": "Veterans United for Non-Religious Memorials",
+      "count": 2
+    },
+    {
+      "group": "Anti-Gentrification Front",
+      "count": 1
+    },
+    {
+      "group": "Animal Liberation Front (ALF)",
+      "count": 1
+    },
+    {
+      "group": "Anarchists",
+      "count": 1
+    },
+    {
+      "group": "Anti-Government extremists",
+      "count": 1
+    },
+    {
+      "group": "Anti-Police extremists",
+      "count": 1
+    },
+    {
+      "group": "Anti-Muslim extremists",
+      "count": 1
+    }
+  ],
+  "2014": [
+    {
+      "group": "Anti-Government extremists",
+      "count": 9
+    },
+    {
+      "group": "Jihadi-inspired extremists",
+      "count": 7
+    },
+    {
+      "group": "Anti-Muslim extremists",
+      "count": 3
+    },
+    {
+      "group": "Anarchists",
+      "count": 2
+    },
+    {
+      "group": "Incel extremists",
+      "count": 2
+    },
+    {
+      "group": "White supremacists/nationalists",
+      "count": 2
+    },
+    {
+      "group": "Anti-Police extremists",
+      "count": 1
+    },
+    {
+      "group": "Sovereign Citizen",
+      "count": 1
+    },
+    {
+      "group": "United Aryan Empire",
+      "count": 1
+    }
+  ],
+  "2015": [
+    {
+      "group": "Pagan Sect of the Mountain",
+      "count": 9
+    },
+    {
+      "group": "Anti-Muslim extremists",
+      "count": 7
+    },
+    {
+      "group": "Anti-Abortion extremists",
+      "count": 5
+    },
+    {
+      "group": "Muslim extremists",
+      "count": 3
+    },
+    {
+      "group": "Jihadi-inspired extremists",
+      "count": 3
+    },
+    {
+      "group": "White supremacists/nationalists",
+      "count": 2
+    },
+    {
+      "group": "Animal Liberation Front (ALF)",
+      "count": 2
+    },
+    {
+      "group": "Anti-Immigrant extremists",
+      "count": 1
+    },
+    {
+      "group": "Anti-Government extremists",
+      "count": 1
+    },
+    {
+      "group": "Anarchists",
+      "count": 1
+    }
+  ],
+  "2016": [
+    {
+      "group": "Jihadi-inspired extremists",
+      "count": 9
+    },
+    {
+      "group": "Anti-Muslim extremists",
+      "count": 7
+    },
+    {
+      "group": "Anti-Police extremists",
+      "count": 5
+    },
+    {
+      "group": "Anti-White extremists",
+      "count": 4
+    },
+    {
+      "group": "White supremacists/nationalists",
+      "count": 4
+    },
+    {
+      "group": "Anti-Semitic extremists",
+      "count": 3
+    },
+    {
+      "group": "Black Hebrew Israelites",
+      "count": 3
+    },
+    {
+      "group": "Individuals Tending Toward Savagery",
+      "count": 2
+    },
+    {
+      "group": "Citizens for Constitutional Freedom",
+      "count": 1
+    },
+    {
+      "group": "Anti-Trump extremists",
+      "count": 1
+    }
+  ],
+  "2017": [
+    {
+      "group": "Anti-Muslim extremists",
+      "count": 12
+    },
+    {
+      "group": "White supremacists/nationalists",
+      "count": 12
+    },
+    {
+      "group": "Jihadi-inspired extremists",
+      "count": 9
+    },
+    {
+      "group": "Anti-Government extremists",
+      "count": 4
+    },
+    {
+      "group": "Anti-LGBT extremists",
+      "count": 4
+    },
+    {
+      "group": "Anarchists",
+      "count": 3
+    },
+    {
+      "group": "Ku Klux Klan",
+      "count": 3
+    },
+    {
+      "group": "Individuals Tending Toward Savagery",
+      "count": 3
+    },
+    {
+      "group": "Anti-White extremists",
+      "count": 3
+    },
+    {
+      "group": "Right-wing extremists",
+      "count": 2
+    }
+  ],
+  "2018": [
+    {
+      "group": "Pro-Trump extremists",
+      "count": 16
+    },
+    {
+      "group": "White supremacists/nationalists",
+      "count": 8
+    },
+    {
+      "group": "Jihadi-inspired extremists",
+      "count": 6
+    },
+    {
+      "group": "Anti-Semitic extremists",
+      "count": 5
+    },
+    {
+      "group": "Anti-Muslim extremists",
+      "count": 4
+    },
+    {
+      "group": "Male supremacists",
+      "count": 3
+    },
+    {
+      "group": "Incel extremists",
+      "count": 2
+    },
+    {
+      "group": "Neo-Nazi extremists",
+      "count": 2
+    },
+    {
+      "group": "Conspiracy theory extremists",
+      "count": 1
+    },
+    {
+      "group": "Anti-Trump extremists",
+      "count": 1
+    }
+  ],
+  "2019": [
+    {
+      "group": "White supremacists/nationalists",
+      "count": 11
+    },
+    {
+      "group": "Anti-Semitic extremists",
+      "count": 9
+    },
+    {
+      "group": "Anti-Muslim extremists",
+      "count": 6
+    },
+    {
+      "group": "Conspiracy theory extremists",
+      "count": 5
+    },
+    {
+      "group": "Anti-White extremists",
+      "count": 5
+    },
+    {
+      "group": "Neo-Nazi extremists",
+      "count": 2
+    },
+    {
+      "group": "Anti-LGBT extremists",
+      "count": 2
+    },
+    {
+      "group": "Jihadi-inspired extremists",
+      "count": 2
+    },
+    {
+      "group": "Pro-choice extremists",
+      "count": 2
+    },
+    {
+      "group": "Al-Qaida in the Arabian Peninsula (AQAP)",
+      "count": 1
+    }
+  ],
+  "2020": [
+    {
+      "group": "Conspiracy theory extremists",
+      "count": 16
+    },
+    {
+      "group": "White supremacists/nationalists",
+      "count": 9
+    },
+    {
+      "group": "Anti-Police extremists",
+      "count": 7
+    },
+    {
+      "group": "Anti-Government extremists",
+      "count": 6
+    },
+    {
+      "group": "Boogaloo movement",
+      "count": 5
+    },
+    {
+      "group": "Jihadi-inspired extremists",
+      "count": 4
+    },
+    {
+      "group": "Anti-Trump extremists",
+      "count": 3
+    },
+    {
+      "group": "Anti-Religion extremists",
+      "count": 3
+    },
+    {
+      "group": "Anti-Muslim extremists",
+      "count": 2
+    },
+    {
+      "group": "Left-wing extremists",
+      "count": 2
+    }
+  ]
+}
